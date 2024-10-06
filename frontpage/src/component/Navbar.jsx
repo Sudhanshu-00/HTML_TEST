@@ -14,8 +14,8 @@ const Navbar = () => {
                     <a href="#" className="text-gray-600 hover:text-gray-900">Support</a>
                 </div>
                 <div className="flex items-center space-x-2">
-                    <button className="px-4 py-2 text-sm text-blue-600 border border-blue-600 rounded hover:bg-blue-50">Login</button>
-                    <button className="px-4 py-2 text-sm text-white bg-blue-500 rounded hover:bg-blue-400">Register</button>
+                    <button className="px-10 py-2 text-sm text-blue-600 border border-blue-600 rounded hover:bg-blue-50">Login</button>
+                    <button className="px-10 py-2 text-sm text-white bg-blue-500 rounded hover:bg-blue-400">Register</button>
                 </div>
             </nav>
         </div>
